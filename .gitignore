@@ -1,0 +1,6 @@
+*.cache
+*.props
+*.targets
+*.sem
+*.editorconfig
+*.suo
