@@ -4,3 +4,7 @@
 *.sem
 *.editorconfig
 *.suo
+*.v2
+*.lock
+*.vsidx
+*.v1
