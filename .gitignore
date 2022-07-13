@@ -8,3 +8,4 @@
 *.lock
 *.vsidx
 *.v1
+obj/
