@@ -1,0 +1,8 @@
+.idea
+.svn
+.vs
+*.csproj.user
+obj
+build
+packages
+bin
